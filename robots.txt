@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.lfoqaig.cn/sitemap.xml
